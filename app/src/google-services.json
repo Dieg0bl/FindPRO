@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593920548333",
+    "project_id": "findpro-c97fb",
+    "storage_bucket": "findpro-c97fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593920548333:android:97e6cc6bcc10957282dbe4",
+        "android_client_info": {
+          "package_name": "dbl.findpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593920548333-6vv065d96tq10s4gaij0o2b306lbq0ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB84bJiaZ7_ar_JX_-saIYE5dzW_Wzy_fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593920548333-6vv065d96tq10s4gaij0o2b306lbq0ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
